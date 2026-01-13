@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaur_gh=globalThis.webpackChunkdocusaur_gh||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/github-usaurus-somaye-50hz/blog","blogTitle":"Blog","authorsListPath":"/github-usaurus-somaye-50hz/blog/authors"}')}}]);
